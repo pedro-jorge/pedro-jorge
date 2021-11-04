@@ -1,5 +1,27 @@
-### Hi there 👋
+### Hi! I'm Pedro Jorge!
 
+<div align="center">
+  <a href="https://github.com/pedro-jorge">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-jorge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jorge&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/723017975636164759/905843654353121310/g7AN5vmg_400x400_1.jpg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/pedrojorgesz" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+  <a href = "mailto:eusouopedrojorge@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://www.linkedin.com/in/pedro-jorge-143541223/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
+  <a href="https://twitter.com/pedrojorgesz" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://facebook.com/pedrojorgesz" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+</div>
+  
 <!--
 **pedro-jorge/pedro-jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
