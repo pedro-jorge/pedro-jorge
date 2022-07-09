@@ -15,10 +15,10 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/pedrojorgesz"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+  <a href="https://instagram.com/aka.pejola"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
   <a href = "mailto:eusouopedrojorge@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   <a href="https://www.linkedin.com/in/pedro-jorge-143541223/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
-  <a href="https://twitter.com/pedrojorgesz"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://twitter.com/pedrojorgecrf"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
   <a href="https://facebook.com/pedrojorgesz"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </div>
   
